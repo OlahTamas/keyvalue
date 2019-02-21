@@ -1,0 +1,16 @@
+{
+    "name": "olahtamas/keyvalue",
+    "description": "A trait that allows for making key=>value collections of models or classes with constants",
+    "authors": [
+        {
+            "name": "Oláh Tamás",
+            "email": "olah.tamas@caleb.hu"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "OlahTamas\\KeyValue\\": "src/"
+        }
+    }
+}
